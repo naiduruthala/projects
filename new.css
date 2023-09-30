@@ -1,0 +1,65 @@
+body {
+    background-image: url(http://3.bp.blogspot.com/-HZjWo1-nUmE/UBuYeHwjw8I/AAAAAAAADXo/3gn-z7rjdo4/s1600/Coffee_Seeds_Macro_Photography_HD_Desktop_Wallpaper-HidefWall.Blogspot.Com-.jpg);
+    font-family:sans-serif;
+    padding: 20px;
+}
+h1 {
+    font-size: 40px;
+    margin-top: 0%;
+    margin-bottom: 20px;
+}
+h2 {
+    font-size: 30px;
+}
+.establishied {
+    font-style: italic;
+}
+h1,h2,.section1,.section2,p {
+    text-align: center;
+}
+.Menu {
+    background-color:burlywood;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+hr {
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+}
+h1,h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+.flavour,.dessert {
+    text-align: left;
+    width: 75%;
+}
+.price {
+    text-align: right;
+    width: 25% ;
+}
+footer {
+    font-size: 15px;
+}
+.address {
+    font-size: 15px;
+}
+a {
+    color: black;
+}
+a:hover {
+    color: brown;
+}
